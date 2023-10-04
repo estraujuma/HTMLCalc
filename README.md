@@ -1,2 +1,2 @@
 # HTMLCalc
-Task for TheRackoons workshop
+Task for TheRaccoons workshop
